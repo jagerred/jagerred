@@ -48,7 +48,7 @@
         <span>React</span>
       </td>
       <td align="center" width="80" height="80" > 
-        <img src="./nextjs-original.svg" alt="c" width="30" height="30" />
+        <img src="./next-js.svg" alt="c" width="30" height="30" />
         <span>Next JS</span>
       </td>
       <td align="center" width="80" height="80">  
